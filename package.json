@@ -4,7 +4,8 @@
   "description": "Backend MongoDB PT-BR",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "OSG1982",
   "license": "ISC",
@@ -33,3 +34,4 @@
   },
   "homepage": "https://github.com/oldschoolgamer1982/_backend_mongodb_ptbr#readme"
 }
+
